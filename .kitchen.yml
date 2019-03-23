@@ -32,5 +32,4 @@ suites:
         - test/integration/default
     ports:
       - "127.0.0.1:9080:80"
-
 attributes: 
