@@ -27,5 +27,5 @@ suites:
       - recipe[nginx::nginxDeploy]
     verifier:
       inspec_tests:
-        - test/integration/nginxDefault_test
+        - test/integration/default
 attributes: 
